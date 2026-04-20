@@ -1,0 +1,8 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.14
+numpy==1.26.4
+
+# Эти версии нужны, чтобы MediaPipe 0.10.14 нормально работал с NumPy 1.26.
+opencv-contrib-python==4.11.0.86
+jax==0.4.30
+jaxlib==0.4.30
